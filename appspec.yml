@@ -15,4 +15,8 @@ hooks:
   ApplicationStart:
     - location: script/deploy.sh # 실행될 쉘 스크립트
       timeout: 60
+<<<<<<< HEAD
       runas: ubuntu
+=======
+      runas: ubuntu
+>>>>>>> 40528f04d4fe8c5a06eb1d9a2c2f157d674ef825
